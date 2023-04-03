@@ -17,10 +17,6 @@ const questions = [{
     name:"description",
 }, {
     type: "input",
-    message: "Table of Contents.",
-    name:"table of contents",
-}, {
-    type: "input",
     message: "What does the user need to install to run this app?",
     name:"installation",
 }, {
