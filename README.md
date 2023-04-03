@@ -2,7 +2,7 @@
 
   ## Description
 
-  This Homework 7 README was created for boot camp students who were going through Module 06. It contains a README generator that takes in inputs through the terminal and prints it to a README.md
+  This Homework 7 README was created for boot camp students who were going through Module 09. It contains a README generator that takes in inputs through the terminal and prints it to a README.md
 
   ## Table of Contents
 
