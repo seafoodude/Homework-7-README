@@ -23,11 +23,11 @@
 
   ## License
 
-  undefined
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  undefined
+  [License](#license)
 
-  undefined
+  This project is license under the MIT license.
 
   ## Contributing
 
