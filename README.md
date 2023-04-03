@@ -9,6 +9,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
+  * [Screenshots](#screenshots)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -28,6 +29,11 @@
   [License](#license)
 
   This project is license under the MIT license.
+
+  ## Screenshots
+
+  [screencastify](https://)
+  ![Screenshot of README](./assets/readmeSS.PNG)
 
   ## Contributing
 
